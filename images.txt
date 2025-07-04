@@ -1,1 +1,1 @@
-openjdk:17-jdk-bullseye
+doirs/doirs:latest
