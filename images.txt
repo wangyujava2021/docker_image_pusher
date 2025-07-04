@@ -1,1 +1,1 @@
-python:3.11-slim-bullseye
+openjdk:17-jdk-bullseye
