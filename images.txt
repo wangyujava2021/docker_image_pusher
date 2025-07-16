@@ -1,1 +1,1 @@
-doirs/doirs:latest
+clickhouse/clickhouse-server:23.3-lts
