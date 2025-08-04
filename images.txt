@@ -1,1 +1,1 @@
-clickhouse/clickhouse-server:23.3-lts
+apromore/opensource:8.1
