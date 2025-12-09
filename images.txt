@@ -1,1 +1,1 @@
-apromore/opensource:7.21
+mysql:8
