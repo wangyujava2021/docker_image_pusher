@@ -1,1 +1,1 @@
-mysql:8
+clickhouse/clickhouse-server
