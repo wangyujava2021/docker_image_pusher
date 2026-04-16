@@ -1,1 +1,2 @@
-maven:3.9.14-sapmachine-17
+node:20.20-alpine3.23
+nginx:1.30-alpine3.23
