@@ -1,6 +1,1 @@
-mysql:8.0
-minio/minio
-maven:3.8.6-openjdk-17-slim
-openjdk:17-jdk-slim
-node:18-alpine
-nginx:alpine
+maven:3.8.6-openjdk-17
