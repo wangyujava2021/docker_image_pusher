@@ -1,1 +1,1 @@
-maven:3.8.6-openjdk-17
+maven:3.9.14-sapmachine-17
