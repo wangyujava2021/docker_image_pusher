@@ -1,2 +1,2 @@
-https://github.com/wangyujava2021/docker_image_pusher
-648540163/wvp-pro:v4.3.0 
+zlmediakit/zlmediakit:ubuntu22.04-release
+648540858/wvp-pro:v3.2.0
