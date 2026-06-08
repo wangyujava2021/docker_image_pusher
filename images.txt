@@ -1,1 +1,2 @@
-gitlab/gitlab-ce:17.10.4-ce.0
+zlmediakit/zlmediakit:Release.20.12
+648540163/wvp-pro:v4.3.0
