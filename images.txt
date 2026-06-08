@@ -1,2 +1,2 @@
-zlmediakit/zlmediakit:ubuntu22.04-release
-648540858/wvp-pro:v3.2.0
+panjjoo/zlmediakit:latest
+panjjoo/wvp-pro:latest
