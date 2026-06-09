@@ -1,2 +1,1 @@
-panjjoo/zlmediakit:latest
-panjjoo/wvp-pro:latest
+ringcentral/jdk:21.0.9
