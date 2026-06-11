@@ -1,1 +1,1 @@
-docker pull openjdk:21
+openjdk:21
