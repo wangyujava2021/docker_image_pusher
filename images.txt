@@ -1,1 +1,1 @@
-openjdk:21-jdk-alpine
+openjdk:21-jre
