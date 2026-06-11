@@ -1,1 +1,1 @@
-openjdk:21-jre
+openjdk:21-slim
