@@ -1,1 +1,1 @@
-eclipse-temurin:21-jre
+docker pull openjdk:21
